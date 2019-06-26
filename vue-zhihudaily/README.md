@@ -5,6 +5,10 @@
 ## Build Setup
 
 ``` bash
+#开启代理
+cd src 
+node proxy.js
+
 # install dependencies
 npm install
 
